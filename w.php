@@ -12,7 +12,6 @@
         h3 {
     color: #f0f8ff;
         }
-    
     </style>
     <title>Weather App</title>
     </head>
