@@ -7,13 +7,19 @@ html {
 }
 
 body {
-    background: none;
+    background: none !important;
+    background-color: none;
+    color: #f0f8ff;
 }
 
 .container {
     text-align: center;
     margin-top: 100px;
     width: 450px;
+}
+
+#c {
+    color: #f0f8ff;
 }
 
 input {
